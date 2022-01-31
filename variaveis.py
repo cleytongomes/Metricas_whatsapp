@@ -1,0 +1,5 @@
+link_busca = "/html/body/div/div[1]/div[1]/div[3]/div/div[1]/div/label/div/div[2]"
+link_infos_grupo = "/html/body/div/div[1]/div[1]/div[4]/div[1]/header"
+num_elementos_grupo = "/html/body/div[1]/div[1]/div[1]/div[2]/div[3]/span/div[1]/span/div[1]/div/section/div[6]/div[1]/div/div/div[1]/span"
+link_bt_menu = "/html/body/div[1]/div[1]/div[1]/div[3]/div/header/div[2]/div/span/div[3]/div/span"
+link_bt_sair = "/html/body/div[1]/div[1]/div[1]/div[3]/div/header/div[2]/div/span/div[3]/span/div[1]/ul/li[4]/div[1]"
