@@ -1,2 +1,2 @@
-# Metricas whatsapp
-Coleta automatizada do número de participantes em grupos de whatsapp.
+# Coletor de Metricas do whatsapp
+Colete a quantidade de participantes em grupos marketing
